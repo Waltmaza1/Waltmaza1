@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Walter. Welcome to my github! 
 <br>
-website:[Walter Mazariego]
-(https://walterdmazariego.com)
+website: [Walter Mazariego](https://walterdmazariego.com)
+:sendit
 
 
 <!--
