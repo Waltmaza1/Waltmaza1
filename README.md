@@ -1,7 +1,7 @@
-### Hi 👋, I'm Walter. Welcome to my github! 
+### Hi 👋, I'm Walter. Welcome to my github!  :suspect:
 <br>
-website: [Walter Mazariego](https://walterdmazariego.com)
-:sendit
+
+website: [Walter Mazariego](walterdmazariego.com)
 
 
 <!--
