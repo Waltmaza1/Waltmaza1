@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Walter. Welcome to my github!
 <br>
 
-website: [Walter Mazariego](walterdmazariego.com) :suspect:
+website: [Walter Mazariego](https://www.walterdmazariego.com/) :suspect:
 
 
 <!--
